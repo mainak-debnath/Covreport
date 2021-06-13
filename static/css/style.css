@@ -1,0 +1,112 @@
+
+body{
+    background: #161625;
+}
+
+.covreport{
+    color: #007bff;
+    text-align: center;
+    margin: 25px;
+}
+.title{
+    color: red;
+}
+.heading{
+    text-align: center;
+    color: #6c757d;
+    
+}
+.form-control{
+    width: 200px;
+}
+.country_name{
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+    color: #E4D8FA;
+}
+
+.container1{
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}
+.container2{
+    background-color: green;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}
+.container3{
+    background-color: pink;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 25px;
+}
+.container4{
+    background-color: skyblue;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 25px;
+}
+.container5{
+    background-color: red;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 25px;
+}
+.container6{
+    background-color: palegoldenrod;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 25px;
+}
+.boxes,.grid{
+    text-align: center;
+    
+    font-weight: bold;
+}
+.grid{
+    font-size: 23px;
+    margin: 5px;
+}
+.boxes{
+    margin: 0 0 25px;
+}
+
+
+.btn{
+    margin-left: 4px;
+}
+.tag{
+    color: #6c757d;
+    text-align: center;
+    margin-top: -10px;
+}
+.github{
+    color: rgb(255, 255, 255);
+}
+
+#footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
