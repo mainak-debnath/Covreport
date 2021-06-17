@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c30621d3-84ee-41da-a71d-e5468b218f3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/covid/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/covid/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/covreport/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/covreport/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +41,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623924310882">
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623955364803">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1623924310882" />
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1623955364803" />
+    <state x="494" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623955208676">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="494" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1623955208676" />
     <state x="253" y="61" key="SettingsEditor" timestamp="1623950614355">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
